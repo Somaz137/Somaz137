@@ -1,4 +1,5 @@
 👋 Hi, I'm Somaz
+
 🌟 Introduction
 
 I’m a student with an interest in programming and building projects. I like working with C and Python, and I’m exploring areas like system-level projects.
