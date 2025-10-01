@@ -1,16 +1,22 @@
-## Hi there 👋
+👋 Hi, I'm Somaz
+🌟 Introduction
 
-<!--
-**Somaz137/Somaz137** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a student with an interest in programming and building projects. I like working with C and Python, and I’m exploring areas like system-level projects.
 
-Here are some ideas to get you started:
+🛠️ Skills & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: C, Python
+Frameworks / APIs: LINE Messaging API
+Tools: Git/GitHub, VS Code, Windows Console, pycharm
+
+🚀 Projects
+
+Doctor Appointment Scheduling System (C) – A console-based system for booking and managing appointments.
+Python Practice Repo – Small programs while learning Python.
+
+📫 Contact Info
+
+LinkedIn: https://www.linkedin.com/in/rimazchoudhary
+
+🎉 Fun
+I am very picky with my company.
